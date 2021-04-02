@@ -32,6 +32,7 @@ git status
 git add <FILE NAME>
 git commit -m "<YOUR COMMIT MESSAGE>"
 git branch
+git push
 
 cd ..
 git status
