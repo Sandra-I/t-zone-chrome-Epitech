@@ -15,7 +15,7 @@ git submodule update
 
 ## SUBMODULES WORKFLOW EXAMPLE
 
-Comment organiser son travail avec les submodules
+How to organize your work with submodules
 
 Commands :
 ```
@@ -23,8 +23,8 @@ cd <TO THE SUBMODULE>
 git checkout -b <BRANCH NAME>
 ```
 
-Faire les modifications souhaitées dans le dossier.
-Une fois que vous souhaitez, publier votre travail en ligne voici les étapes à suivre.
+Make the needed changes in the file.
+Once you wish to publish your work online, here are the steps to follow.
 
 Commands :
 ```
