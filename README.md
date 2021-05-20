@@ -40,3 +40,9 @@ git add <.>
 git commit -m "<YOUR COMMIT MESSAGE>"
 git push
 ```
+
+## HOW TO PULL THE PROJECT PROPERLY
+
+```
+git pull --recurse-submodules
+```
