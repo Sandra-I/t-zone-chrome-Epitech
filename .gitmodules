@@ -4,3 +4,6 @@
 [submodule "python-api"]
 	path = python-api
 	url = git@gitlab.com:t-zone/python-api.git
+[submodule "tzone-website"]
+	path = tzone-website
+	url = git@gitlab.com:t-zone/tzone-website.git
