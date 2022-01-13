@@ -1,9 +1,9 @@
 [submodule "interface"]
 	path = interface
-	url = git@gitlab.com:t-zone/interface.git
+	url = git@github.com:EpitechMscPro2020/interface.git
 [submodule "python-api"]
 	path = python-api
-	url = git@gitlab.com:t-zone/python-api.git
+	url = git@github.com:EpitechMscPro2020/python-api.git
 [submodule "tzone-website"]
 	path = tzone-website
-	url = git@gitlab.com:t-zone/tzone-website.git
+	url = git@github.com:EpitechMscPro2020/tzone-website.git
