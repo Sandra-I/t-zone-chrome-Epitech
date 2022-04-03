@@ -3,7 +3,7 @@
 ## HOW TO CLONE THE MAIN PROJECT
 
 Please follow theses instructions to clone properly the repository.
-The project is composed by a main repository (t-zone-chrome) with 2 submodules (interface and python-api).
+The project is composed by a main repository (t-zone-chrome) with 4 submodules (interface, python-api, tzone-website and nestjs-api).
 A submodule is a reference to an other repository.
 
 Git commands :
