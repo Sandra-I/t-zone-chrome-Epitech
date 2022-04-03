@@ -7,3 +7,6 @@
 [submodule "tzone-website"]
 	path = tzone-website
 	url = git@github.com:EpitechMscPro2020/tzone-website.git
+[submodule "nestjs-api"]
+	path = nestjs-api
+	url = git@github.com:EpitechMscPro2020/nestjs-api.git
