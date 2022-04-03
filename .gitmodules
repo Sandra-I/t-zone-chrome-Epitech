@@ -4,9 +4,9 @@
 [submodule "python-api"]
 	path = python-api
 	url = git@github.com:EpitechMscPro2020/python-api.git
-[submodule "tzone-website"]
-	path = tzone-website
-	url = git@github.com:EpitechMscPro2020/tzone-website.git
 [submodule "nestjs-api"]
 	path = nestjs-api
 	url = git@github.com:EpitechMscPro2020/nestjs-api.git
+[submodule "t-zone-website"]
+	path = t-zone-website
+	url = git@github.com:EpitechMscPro2020/t-zone-website.git
